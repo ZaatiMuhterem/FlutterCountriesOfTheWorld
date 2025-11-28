@@ -59,3 +59,4 @@ API’den gelen JSON verisini Ulke nesnesine dönüştürür.
 Bir ülkenin tüm detaylarını gösteren sayfadır.
 Büyük bayrak görseli, ülke bilgileri ve detay satırları yer alır.
 ## Ekran Görüntüleri
+![4p9o4o](Simulator Screenshot - iPhone 16e - 2025-11-28 at 15.16.25.png)
