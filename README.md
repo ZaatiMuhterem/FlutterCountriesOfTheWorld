@@ -60,5 +60,5 @@ Bir ülkenin tüm detaylarını gösteren sayfadır.
 Büyük bayrak görseli, ülke bilgileri ve detay satırları yer alır.
 ## Ekran Görüntüleri
 ![4p9o4o]
-![4p9o4o](images/img1.png) | ![4p9o4o](images/img2.png) | ![4p9o4o](images/img3.png) | ![4p9o4o](images/img4.png)
+![4p9o4o](https://github.com/ZaatiMuhterem/FlutterCountriesOfTheWorld/blob/5a7a65f2756d5c4ce1639960fa4b34a07b03bd5e/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202025-11-28%20at%2015.16.25.png) | ![4p9o4o](images/img2.png) | ![4p9o4o](images/img3.png) | ![4p9o4o](images/img4.png)
 
