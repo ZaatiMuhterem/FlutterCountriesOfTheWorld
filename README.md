@@ -59,4 +59,4 @@ API’den gelen JSON verisini Ulke nesnesine dönüştürür.
 Bir ülkenin tüm detaylarını gösteren sayfadır.
 Büyük bayrak görseli, ülke bilgileri ve detay satırları yer alır.
 ## Ekran Görüntüleri
-![4p9o4o](Simulator Screenshot - iPhone 16e - 2025-11-28 at 15.16.25.png)
+![4p9o4o](https://github.com/ZaatiMuhterem/FlutterCountriesOfTheWorld/blob/5af358d13441525cd8f05d99d6a2414a99b47126/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202025-11-28%20at%2015.16.25.png)
